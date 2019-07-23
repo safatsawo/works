@@ -1,0 +1,190 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+h1 {
+    font-size: 26px;
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+h2 {
+    margin: 0px 0px 40px 0px;
+    font-weight: none;
+    font-stretch: expanded;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 4px 0px;
+}
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 5px 13px;
+    margin: 0px 0px 70px 0px;
+}
+a.img1 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.joe {
+    background-color: rgb(241, 239, 239);
+    padding: 4px 7px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+a.img2 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.elli {
+    background-color: rgb(241, 239, 239);
+    padding: 4px 7px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+a.img3 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.stev {
+    background-color: rgb(241, 239, 239);
+    padding: 4px 7px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+a.img4 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+    
+}
+.vero {
+    background-color: rgb(29, 164, 209);
+    padding: 4px  10px;
+    color:white;
+}
+
+.friend {
+    background-color: rgb(12, 73, 131);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4px 7px;
+    color:white;
+}
+a.img5 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+    
+}
+.VERONIKA {
+    background-color: rgb(96, 214, 175);
+    padding: 4px  10px;
+    color:white;
+}
+
+.student {
+    background-color: rgb(35, 175, 128);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4px 7px;
+    color:white;
+}
+a.img6 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.Helen {
+    background-color: gold;
+    padding: 4px 7px;
+    color:white;
+}
+
+.worker {
+    background-color: goldenrod;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4px  10px;
+    color:white;
+}
+
+
+.img7 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    display: inline-block;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.andri {
+    background-color: rgb(241, 239, 239);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4px 7px;
+}
+
+.img8 {
+    padding: 5px;
+    margin: 2px;
+    /* background: rgb(241, 239, 239); */
+    
+    border-radius: 5px;
+    display: inline-flex;
+}
+.zoe {
+    background-color: rgb(241, 239, 239);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4px 7px;
+}
+    .img9 {
+        padding: 5px;
+        margin: 2px;
+        /* background: rgb(241, 239, 239); */
+        
+        border-radius: 5px;
+        display: inline-flex;
+    }
+    .nan {
+        background-color: rgb(244, 250, 252);
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        padding: 4px 7px;
+        display: inline-flex;
+    }
+
+.zero {
+    margin: 40px 0px 90px;
+}
+.first{
+    
+        margin: 40px 0px 90px;
+}
+.second{
+        margin: 40px 0px 90px; 
+}

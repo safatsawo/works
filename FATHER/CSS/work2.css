@@ -1,0 +1,150 @@
+body {
+    margin: 20px 20px;
+    padding: 10px 10px;
+  
+}
+.all {
+    padding: 5px;
+    margin: 10px;
+}
+.top {
+    margin: 0px 0px 70px 0px;
+}
+h1 {
+    margin: 0px 0px;
+}
+h2 {
+    margin: 0px 0px;
+    font-weight: 100;
+    font-size: 20px;
+}
+.but {
+    display: flex;
+    margin: 0px 0px 40px;
+}
+    
+.num1 {
+    display: inline-flex;
+    border: solid rgb(247, 9, 28) 1px;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.has {
+    padding: 10px;
+    position: relative;
+
+}
+.hass{
+    padding: 10px;
+    position: relative;
+}
+.hass::before{
+    content:'';
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    position: absolute;
+    background-color:white;
+    transform: translate( -134%,20%) rotate(45deg);
+    border-left: solid 1px #2185d0;
+    border-bottom:solid 1px #2185d0;
+
+} 
+.num2 {
+    display: inline-flex;
+    border: solid #E0E0E0 1px;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.num3 {
+    display: inline-flex;
+    border: solid #E0E0E0;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.butt {
+    display: flex;
+    margin: 0px 0px 40px;
+}
+.icon {margin: 0px 0px 40px;
+}
+.buto {
+    margin: 0px 0px 40px 0px;
+}
+.label2 {
+    margin: 0px 0px 40px;
+}
+.pause {
+    margin: 0px 0px 40px;
+    border: 1px solid #E0E0E0;
+    background-color: #E0E0E0;
+    border-radius: 5px;
+    
+}
+.next {
+        margin: 0px 0px 40px 5px;
+        border: 1px solid #E0E0E0;
+    background-color: #E0E0E0;
+    border-radius: 5px;
+   
+    }
+.basic{
+        margin: 0px 0px 40px;
+    }
+    button.btn {
+        background: rgba(0, 0 , 0 , 0.1);
+    }
+
+.num4 {
+    display: inline-flex;
+    border: solid rgb(247, 9, 28) 1px;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.num5 {
+    display: inline-flex;
+    border: solid rgb(12, 59, 121) 1px;
+    border-radius: 5px;
+    margin: 0px 10px;
+}
+button.paunet {
+    height: 100%;
+    background: rgba(0, 0 , 0 , 0.1);
+}
+.pasne {
+    display: inline-flex;
+}
+span.punet {
+    padding: 5px;
+}
+button {
+    border: none;
+    padding: 4px 20px;
+    margin: 0px;
+}
+button.cloud {
+    border-radius: 5px;
+    padding:10px;
+}
+a.likee {
+    padding: 0px 6px;
+}
+button.like3 {
+    color: white;
+    background-color: red;
+    clip-path: polygon(0 0, 100% 0, 100% 34%, 89% 49%, 100% 65%, 100% 100%, 0 100%);
+}
+button.like4 {
+    color: blue;
+    background-color: white;
+    clip-path: polygon(0 0, 100% 0, 100% 34%, 89% 49%, 100% 65%, 100% 100%, 0 100%);
+    border: solid 1px blue;
+}
+button.forkk {
+    clip-path: polygon(0 0, 100% 0, 100% 34%, 89% 49%, 100% 65%, 100% 100%, 0 100%);
+}
+ 
+
+button.like2 {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 68%, 12% 51%, 0 35%);
+}

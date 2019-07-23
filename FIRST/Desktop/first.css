@@ -1,0 +1,230 @@
+html,
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    border: 50px;
+    margin-left: 0%;
+    color:black;
+}
+#top-menu {
+   width: 100%;
+   height: 50px;
+   background-color: linear-gradient( to right bottom, rgba(178, 235, 168, 0.8),
+   rgba(82, 247, 189, 0.8));
+   padding: 5px;
+   display: block;
+
+}
+ul.menu{
+    display: block;
+    list-style-type: none;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0;
+}
+ul.menu li{
+    margin: 0;
+    padding: 0;
+
+}
+
+ul.menu li a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    max-height: 25px;
+    font-size: 18px;
+   font-weight: 200;
+    text-align: center;
+    background-color:white;
+    text-decoration: none;
+    color: rgb(231, 119, 39);
+    width: 100px;
+}
+
+ul.menu li a:hover{ border-bottom: #600 solid 2px;}
+
+header{
+    height: 70vh;
+    background-image: linear-gradient( to right bottom, rgba(178, 235, 168, 0.8),
+     rgba(82, 247, 189, 0.8)), url('../desktop/room.jpg');
+     background-size: cover;
+     background-position: top;
+     position: relative; 
+    }
+
+
+header .header-content {
+    position: relative;
+    width: 100%;
+    padding: 100px 10px 50px;
+    text-align: center;
+}
+
+header .header-content .header-content-inner h1 {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 100px;
+    font-weight: 300;
+}
+
+header .header-content .header-content-inner p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 300;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+@media(min-width:600px) {
+    header {
+        min-height: 50%;
+    }
+
+    header .header-content {
+        position: absolute;
+        top: 50%;
+        padding: 0 50px;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    header .header-content .header-content-inner {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 1000px;
+    }
+
+	header .header-content .header-content-inner h1 {
+        font-size: 100px;
+        font-weight: bold;
+		}
+
+    header .header-content .header-content-inner p {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 80%;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+    }
+}
+
+
+
+
+
+.intro{
+    height: 50vh;
+    background-image:linear-gradient( to right bottom, rgba(82, 23,7,0.7), 
+    rgba(82, 200, 189, 0.8)), url('../desktop/gratitude.jpeg');
+    position: relative;
+    background-size: cover;
+
+}
+
+.section-heading1{
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.text-light1{
+font-size: 20px;
+margin-bottom: 20px;
+margin-top: 20px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 100;
+font-style: italic;
+margin-right: auto;
+margin-left: auto;
+max-width: 80%;
+font-size: 18px;
+}
+  
+.middle{
+    height: 60vh;
+    background-image:linear-gradient( to right bottom, rgba(82, 23,7,0.7), 
+    rgba(82, 247, 260, 0.8)), url('../desktop/control.jpeg');
+    background-size: cover;
+    position: relative;
+    background-size: cover;
+
+
+}
+.section-heading2{
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight:bold;
+}
+.text-light2{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-style: italic;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 80%;
+    font-size: 18px;
+}
+
+.last{
+    height: 40vh;
+    background-image:linear-gradient( to right bottom, rgba(82, 23,7,0.7), 
+    rgba(83, 167, 137, 0.8)), url('../desktop/thing.jpeg');
+    background-size: cover;
+    position: relative;
+    background-size: cover;
+
+
+}
+.section-heading3{
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight:bold;
+}
+.text-light3{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-style: italic;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 80%;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+.all {
+    background-color: white;
+    padding: 10px 30px;
+}
+h1 {
+    padding: 0px;
+    margin: 0px;
+    font-family: auto;
+}
+h2 {
+    padding-top: 0px;
+    margin: 0px;
+}
+button {
+    padding: 10px 20px;
+    margin: 30px 0px;
+    border: none;
+    border-radius: 5px;
+}
+.word {
+    border: antiquewhite 2px solid;
+    padding: 20px;
+    background-color: cornsilk;
+}
+a {
+    color: blue;
+}
+h5 {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0px;
+    margin: 0px auto;
+}
+h6 {
+    font-size: 15px;
+    font-weight: 500;
+    font-style: unset;
+    margin: 0px auto;
+}
+h3 {
+    font-size: 14px;
+    margin: 0px auto;
+    border: solid 1px rgb(53, 153, 148);
+    background-color: azure;
+    color: rgb(95, 129, 160);
+    font-weight: 100;
+    padding: 20px;
+}
+button1 {
+    background-color: rgb(220, 225, 226);
+    color: rgb(20, 80, 190);
+    padding: 0px 5px;
+}
+.wordd {
+    margin: 40px 0px 0px;
+}
+button.save {
+    background-color: rgb(13, 127, 180);
+    color: white;
+}
+button.okay{
+    background-color: black;
+    color: white
+}
